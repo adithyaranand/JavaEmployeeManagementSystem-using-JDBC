@@ -13,13 +13,6 @@ JavaEmployeeManagementSystem is a console-based application developed in Java th
 - JDBC
 - MySQL
 
-## Setup
-1. Clone the repository.
-2. Set up a MySQL database named "employeeDB".
-3. Import the provided `database_script.sql` file to create the required `employees` table.
-4. Update database connection details in `Main.java`.
-5. Compile and run `Main.java`.
-
 ## Usage
 1. Run the application.
 2. Follow on-screen prompts to perform CRUD operations.
